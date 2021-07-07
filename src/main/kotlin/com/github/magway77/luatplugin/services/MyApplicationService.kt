@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.magway77.luatplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.magway77.luatplugin.MyBundle
 
 class MyApplicationService {
 
